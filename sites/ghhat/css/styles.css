@@ -1,0 +1,65 @@
+#mainbod {
+/*	background-image: url("../img/bkg/bk.jpeg");
+	background-size: 1000px;*/
+	background-color: #282828 !important;
+}
+
+.spotgrey {
+	background-color: #282828 !important;
+}
+
+.aipbeige {
+	background-color: #fdf3e7 !important;
+}
+
+.aipnavy {
+	background-color: #29232E !important;
+}
+
+.aiprust {
+	background-color: #984B43 !important;
+}
+
+.shadows-font {
+	font-family: 'Shadows Into Light', cursive;
+}
+
+.shadow-logo {
+	font-family: 'Shadows Into Light', cursive;
+	position: absolute;
+	color: #fff;
+	display: inline-block;
+	font-size: 2.1rem;
+	padding: 0;
+	white-space: nowrap;
+  	left: 50%;
+    -webkit-transform: translateX(-50%);
+            transform: translateX(-50%);
+}
+
+.orb-font {
+	font-family: 'Orbitron', sans-serif;
+}
+
+.inline {
+	display:inline !important;
+}
+
+.nobottompad {
+    margin-bottom: 0px;
+}
+
+.icosize {
+	height: 80px;
+	width: 80px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+ main {
+    flex: 1 0 auto;
+  }

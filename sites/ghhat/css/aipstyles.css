@@ -1,0 +1,25 @@
+.spotgrey {
+	background-color: #282828; !important;
+}
+
+.aipbeige {
+	background-color: #fdf3e7; !important;
+}
+
+.aipbeige-text {
+  color: #fdf3e7;
+  font-family: 'Poiret One', cursive;
+}
+
+.aipred {
+	background-color: #c63d0f;
+}
+
+.aipred-text {
+	color: #c63d0f;
+	font-family: 'Poiret One', cursive;
+}
+
+.aipred-text-norm {
+  color: #c63d0f;
+}
