@@ -54,6 +54,19 @@
 	width: 80px;
 }
 
+.inverted {
+   -webkit-filter: invert(1);
+   filter: invert(1);
+}
+
+.toppad {
+	padding-top: 200px;
+}
+
+.halfopac {
+	opacity: 0.3;
+}
+
 body {
     display: flex;
     min-height: 100vh;
