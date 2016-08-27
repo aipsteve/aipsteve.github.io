@@ -1,0 +1,65 @@
+.pptpurple {
+	background-color: #945d60 !important;
+}
+
+.pptgreen {
+	background-color: #626e60 !important;
+}
+
+.pptred {
+	background-color: #af473c !important;
+}
+
+.pptgrey {
+	background-color: #3c3c3c !important;
+}
+
+.pptpurple-text {
+	color: #945d60 !important;
+}
+
+.pptgreen-text {
+	color: #626e60 !important;
+}
+
+.pptred-text {
+	color: #af473c !important;
+}
+
+.pptgrey-text {
+	color: #3c3c3c !important;
+}
+
+.ppt-dosis {
+	font-family: 'Dosis', sans-serif;
+}
+
+.ppt-josefin {
+	font-family: 'Josefin Sans', sans-serif;
+}
+
+.ppt-poiret {
+	font-family: 'Poiret One', cursive;
+}
+
+.small-text {
+	font-size: .6em;
+}
+
+.left-padme {
+	padding-left: 12px;
+}
+
+.top-padme {
+	padding-top: 8px;
+}
+
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+}
+
+main {
+    flex: 1 0 auto;
+}
